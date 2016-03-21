@@ -5,26 +5,26 @@ published: true
 ---
 
 
-PxBeats is a fantastic rhythm/music RPG game.
+## PxBeats is a fantastic rhythm/music RPG game.
 
 ![]({{site.baseurl}}/_posts/image/pxbeats_demo.gif)
 
-Features:
+### Features:
 1. Retro 8 bit/chiptune BGM.
 2. Easy to play, just click and click.
 3. Heroes need hit enemies in the pace of music.
 4. Heroes can upgrade the power of items to beat powerful enemies.
 5. Two mode: SURVIVE Mode and BATTLE Mode.
 
-Facebook Page:
+### Facebook Page:
 [www.facebook.com/pxbeats](www.facebook.com/pxbeats)
 
-Feedback Form:
+### Feedback Form:
 [Feedback To Us](https://docs.google.com/forms/d/1Vr4...a9MPedeGUk2c0s)
 
-Reddit IAMA:
+### Reddit IAMA:
 [Reddit IAMA To Us](https://www.reddit.com/r/IAmA/commen...ou_can_ask_me/)
 
-PxBeats will be available for Beat Testing later this March 2016.
+## PxBeats will be available for Beat Testing later this March 2016.
 
 
