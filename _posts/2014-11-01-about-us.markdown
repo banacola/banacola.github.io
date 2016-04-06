@@ -1,0 +1,13 @@
+---
+title:  "About us"
+subtitle: "Well, what do you want to know about us?"
+author: "BANACOLA"
+avatar: "img/authors/koala3.png"
+image: "img/about/about_us.png"
+date:   2014-11-01 12:12:12
+---
+
+BANACOLA is an innovative game studios.
+
+Contact us: developer@banacola.com
+
