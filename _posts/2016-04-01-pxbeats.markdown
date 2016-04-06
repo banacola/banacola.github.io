@@ -6,5 +6,45 @@ avatar: "img/authors/koala3.png"
 image: "img/pxbeats/pxbeats.png"
 date:   2016-04-01 12:12:12
 ---
+<img src="img/pxbeats/icon_128.png">
 
-### PxBeats
+[<img src="img/ios/appstore.png">](https://itunes.apple.com/app/pxbeats/id1067246389)
+
+[<img src="img/pxbeats/pxbeats_demo.gif">](http://pxbeats-web.banacola.com/)
+
+## Features
+
+### A perfect mix of RPG and music games
+* The most rhythmical RPG game and the most adventurous music game
+* Marvellous heroes rivalling evil lords
+* Attacking and defensing at the rhythm beat
+* Fabulous experience of hitting, striking, and beating
+
+### Multifarious power-ups
+* Unique and well-defined feature for each power-up
+* Overwhelming force by using power-ups 
+* Real-time power-ups upgrading 
+
+### Appealing chiptune music 
+* Ultimate auditory feast 
+* Rich, clear, powerful chiptune music 
+* Unchained melodies coming from your fingertips
+* Ears will be burning with the spectacular sounds and high quality music
+
+### Nostalgic pixel art style 
+* Elaborately crafted visual effects
+* Exciting and real gaming experience like breaking a siege in the dark dungeon 
+* Bringing back childhood memories of pixel games
+
+### Multiple game modes 
+* SURVIVE Mode: Hit notes quickly to play a flawless music 
+* BATTLE Mode: Utilize power-ups to beat evil lords
+
+{% include youtubePlayer.html id="tiWLj-e0qQU" %}
+
+### Facebook Page: [www.facebook.com/pxbeats](www.facebook.com/pxbeats)
+
+### Feedback Form: [Feedback To Us](https://docs.google.com/forms/d/1Vr4...a9MPedeGUk2c0s)
+
+### Reddit IAMA: [Reddit IAMA To Us](https://www.reddit.com/r/IAmA/commen...ou_can_ask_me/)
+
