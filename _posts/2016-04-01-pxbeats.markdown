@@ -1,0 +1,10 @@
+---
+title:  "PxBeats"
+subtitle: "A fantastic rhythm/music RPG game!"
+author: "BANACOLA"
+avatar: "img/authors/koala3.png"
+image: "img/pxbeats/pxbeats.png"
+date:   2016-04-01 12:12:12
+---
+
+### PxBeats
